@@ -12,6 +12,6 @@ Evolving node classification task, for example, run:
     @inproceedings{zhang2023rdgsl,
       title={RDGSL: Dynamic Graph Representation Learning with Structure Learning},
       author={Siwei, Zhang and Xiong, Yun and Yao, Zhang and Sun, Yiheng and Xi, Chen and Yijiao, Zhu and Zhu, Yangyong},
-      booktitle={The Conference on Information and Knowledge Managemen},
+      booktitle={The 32th ACM International Conference on Information and Knowledge Management},
       year={2023}
     }
